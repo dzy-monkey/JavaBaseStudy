@@ -1,5 +1,6 @@
+package String;
 
-public class Main {
+public class StringPracticeOne {
     public static void main(String[] args) {
         String a = "DzyStudyDzyJava";
         String str1 = "Dzy";

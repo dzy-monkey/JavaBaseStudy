@@ -1,5 +1,7 @@
 package Array;
 
+import java.util.Arrays;
+
 //引用类型要养成创建就给初始值的习惯
 public class ArrayDemo01 {
     public static void main(String[] args) {
@@ -22,5 +24,10 @@ public class ArrayDemo01 {
         b = a;
         b[0] = 200;
         System.out.println(a[0] + " " + b[0]);
+        Arrays.fill(b,100);
+        System.out.println(a[0] + " " + b[0]);
+        System.out.println(a[1] + " " + b[1]);
+        System.out.println(a[2] + " " + b[2]);
+        System.out.println(a[3] + " " + b[3]);
     }
 }
