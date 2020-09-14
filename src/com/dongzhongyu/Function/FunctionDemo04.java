@@ -1,4 +1,4 @@
-package com.dongzhongyu.function;
+package com.dongzhongyu.Function;
 
 // 使用抽象类
 class FunctionDemo04 extends FunctionDemo03 {

@@ -1,4 +1,4 @@
-package com.dongzhongyu.function;
+package com.dongzhongyu.Function;
 
 //接口测试
 public class FunctionDemo02 implements A,B{

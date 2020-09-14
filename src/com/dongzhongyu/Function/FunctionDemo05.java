@@ -1,4 +1,4 @@
-package com.dongzhongyu.function;
+package com.dongzhongyu.Function;
 
 // 随机数
 class FunctionDemo05 {

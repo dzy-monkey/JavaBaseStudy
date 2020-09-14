@@ -1,4 +1,4 @@
-package com.dongzhongyu.function;
+package com.dongzhongyu.Function;
 
 // 创建方法用来得到三个整数的和
 // 填充数组的方法（把数组按照某个值统一进行复制，相当于Arrays.fill）

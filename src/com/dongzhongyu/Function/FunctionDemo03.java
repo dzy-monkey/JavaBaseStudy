@@ -1,4 +1,4 @@
-package com.dongzhongyu.function;
+package com.dongzhongyu.Function;
 
 // 抽象类
 abstract class FunctionDemo03 {

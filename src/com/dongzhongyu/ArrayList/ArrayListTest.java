@@ -1,5 +1,7 @@
 package com.dongzhongyu.ArrayList;
 
+import com.sun.source.tree.NewArrayTree;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -47,5 +49,23 @@ public class ArrayListTest {
             result += temp;
         }
         System.out.println(result);
+
+        ArrayList<String> aList = new ArrayList<String>();
+        aList.add("one");
+        aList.add("two");
+        aList.add("three");
+        aList.add("one");
+        aList.add("Four");
+        aList.add("two");
+        ArrayList<String> newList = new ArrayList<String>();
+        for (String a : aList) {
+            if (newList.contains(a) == false) {
+                newList.add(a);
+            }
+        }
+        for (String s : newList) {
+            System.out.print(s + " ");
+        }
+
     }
 }
