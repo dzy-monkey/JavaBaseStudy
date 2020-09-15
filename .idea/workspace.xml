@@ -10,27 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cd4466c-f799-4c7e-bd5e-9e044b1fbc5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/ArrayList/ArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/ArrayList/ArrayListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo01$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/FunctionDemo05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Projects/com/dongzhongyu/function/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dongzhongyu/ArrayList/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dongzhongyu/ArrayList/ArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dongzhongyu/function/FunctionDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dongzhongyu/Function/FunctionDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dongzhongyu/function/FunctionDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dongzhongyu/Function/FunctionDemo02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dongzhongyu/function/FunctionDemo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dongzhongyu/Function/FunctionDemo03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dongzhongyu/function/FunctionDemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dongzhongyu/Function/FunctionDemo04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dongzhongyu/function/FunctionDemo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dongzhongyu/Function/FunctionDemo05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dongzhongyu/IO/FileInputOutputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dongzhongyu/IO/FileInputOutputStreamDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,10 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/HashMap/HashMapDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/OutputStreamWriterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="116">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,39 +40,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/HashTable/HashTable.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/FileOutputStreamTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="29">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/File/FileDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/TestBufferedInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="377">
+              <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#practice03#0;class#FileDemo#0" />
-                <element signature="method#practice02#0;class#FileDemo#0" />
-                <element signature="method#listFiles#0;class#FileDemo#0" />
-                <element signature="method#practice01#0;class#FileDemo#0" />
-                <element signature="method#methodPanDuan#0;class#FileDemo#0" />
-                <element signature="method#methodCUD#0;class#FileDemo#0" />
-                <element signature="method#methodGet#0;class#FileDemo#0" />
-                <element signature="method#methodListFile#0;class#FileDemo#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/FileInputOutputStreamDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/FileInputOutputStreamDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/TestInputStreamReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+            <state relative-caret-position="241">
+              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,10 +88,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/Demo01.txt">
+        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/BuffereOutputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/FileIOPracticeTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="81" column="36" lean-forward="true" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/Demo04.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -124,14 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StringPractice.java" />
-        <option value="$PROJECT_DIR$/src/StringPracticeTwo.java" />
-        <option value="$PROJECT_DIR$/src/StringPracticeThree.java" />
-        <option value="$PROJECT_DIR$/src/StringPracticeFour.java" />
-        <option value="$PROJECT_DIR$/src/StringPracticeFive.java" />
-        <option value="$PROJECT_DIR$/src/StringPracticeSix.java" />
-        <option value="$PROJECT_DIR$/src/StringPracticeSeven.java" />
-        <option value="$PROJECT_DIR$/src/String/StringPracticeSeven.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Array/ArrayDemo01.java" />
         <option value="$PROJECT_DIR$/src/Array/ArrayDemo02.java" />
@@ -172,6 +175,17 @@
         <option value="$PROJECT_DIR$/src/com/dongzhongyu/File/FileDemo.java" />
         <option value="$PROJECT_DIR$/Test/Demo01.txt" />
         <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/FileInputOutputStreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/FileOutputStreamTest.java" />
+        <option value="$PROJECT_DIR$/Test/Demo02.txt" />
+        <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/FileIOPractice.java" />
+        <option value="$PROJECT_DIR$/Test/demo03.txt" />
+        <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/BuffereOutputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/BufferedInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/TestBufferedInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/FileIOPracticeTwo.java" />
+        <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/OutputStreamWriterTest.java" />
+        <option value="$PROJECT_DIR$/Test/Demo04.txt" />
+        <option value="$PROJECT_DIR$/src/com/dongzhongyu/IO/TestInputStreamReader.java" />
       </list>
     </option>
   </component>
@@ -188,7 +202,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,12 +212,31 @@
             <path>
               <item name="JavaBaseStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBaseStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBaseStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dongzhongyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBaseStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dongzhongyu" type="462c0819:PsiDirectoryNode" />
+              <item name="IO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBaseStudy" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,6 +260,9 @@
       <recent name="Array" />
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java Projects\JavaBaseStudy\Test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,69 +276,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FileInputOutputStreamDemo.testFileInputStream">
-    <configuration name="FileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.File.FileDemo" />
-      <module name="Java Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dongzhongyu.File.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileDemo.practice01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dongzhongyu.File.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dongzhongyu.File" />
-      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.File.FileDemo" />
-      <option name="METHOD_NAME" value="practice01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileDemo.practice02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dongzhongyu.File.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dongzhongyu.File" />
-      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.File.FileDemo" />
-      <option name="METHOD_NAME" value="practice02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileDemo.practice03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dongzhongyu.File.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dongzhongyu.File" />
-      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.File.FileDemo" />
-      <option name="METHOD_NAME" value="practice03" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileInputOutputStreamDemo.testFileInputStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestInputStreamReader.inputSteamReader">
+    <configuration name="FileIOPracticeTwo.copyByByte" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java Projects" />
       <extension name="coverage">
         <pattern>
@@ -312,27 +286,91 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.dongzhongyu.IO" />
-      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.IO.FileInputOutputStreamDemo" />
-      <option name="METHOD_NAME" value="testFileInputStream" />
+      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.IO.FileIOPracticeTwo" />
+      <option name="METHOD_NAME" value="copyByByte" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileIOPracticeTwo.testCopyFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dongzhongyu.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dongzhongyu.IO" />
+      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.IO.FileIOPracticeTwo" />
+      <option name="METHOD_NAME" value="testCopyFunction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputStreamWriterTest.testOutputStreamWriter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dongzhongyu.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dongzhongyu.IO" />
+      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.IO.OutputStreamWriterTest" />
+      <option name="METHOD_NAME" value="testOutputStreamWriter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBufferedInputStream.testBufferedInputStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dongzhongyu.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dongzhongyu.IO" />
+      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.IO.TestBufferedInputStream" />
+      <option name="METHOD_NAME" value="testBufferedInputStream" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInputStreamReader.inputSteamReader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dongzhongyu.IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dongzhongyu.IO" />
+      <option name="MAIN_CLASS_NAME" value="com.dongzhongyu.IO.TestInputStreamReader" />
+      <option name="METHOD_NAME" value="inputSteamReader" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FileDemo" />
-      <item itemvalue="JUnit.FileDemo.practice01" />
-      <item itemvalue="JUnit.FileDemo.practice02" />
-      <item itemvalue="JUnit.FileDemo.practice03" />
-      <item itemvalue="JUnit.FileInputOutputStreamDemo.testFileInputStream" />
+      <item itemvalue="JUnit.TestBufferedInputStream.testBufferedInputStream" />
+      <item itemvalue="JUnit.FileIOPracticeTwo.copyByByte" />
+      <item itemvalue="JUnit.FileIOPracticeTwo.testCopyFunction" />
+      <item itemvalue="JUnit.OutputStreamWriterTest.testOutputStreamWriter" />
+      <item itemvalue="JUnit.TestInputStreamReader.inputSteamReader" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FileInputOutputStreamDemo.testFileInputStream" />
-        <item itemvalue="JUnit.FileDemo.practice03" />
-        <item itemvalue="JUnit.FileDemo.practice02" />
-        <item itemvalue="JUnit.FileDemo.practice01" />
-        <item itemvalue="Application.FileDemo" />
+        <item itemvalue="JUnit.TestInputStreamReader.inputSteamReader" />
+        <item itemvalue="JUnit.OutputStreamWriterTest.testOutputStreamWriter" />
+        <item itemvalue="JUnit.FileIOPracticeTwo.testCopyFunction" />
+        <item itemvalue="JUnit.FileIOPracticeTwo.copyByByte" />
+        <item itemvalue="JUnit.TestBufferedInputStream.testBufferedInputStream" />
       </list>
     </recent_temporary>
   </component>
@@ -363,48 +401,50 @@
       <workItem from="1599468397974" duration="1159000" />
       <workItem from="1599469577309" duration="10771000" />
       <workItem from="1600056216668" duration="16884000" />
+      <workItem from="1600140821795" duration="17585000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 32m 36s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="FileIOPracticeTwo_testCopyFunction - 2020.09.15 at 17h 18m 45s.xml">
+      <configuration name="FileIOPracticeTwo.testCopyFunction" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 32m 58s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="OutputStreamWriterTest_testOutputStreamWriter - 2020.09.15 at 17h 57m 29s.xml">
+      <configuration name="OutputStreamWriterTest.testOutputStreamWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 33m 07s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="OutputStreamWriterTest_testOutputStreamWriter - 2020.09.15 at 17h 58m 33s.xml">
+      <configuration name="OutputStreamWriterTest.testOutputStreamWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 33m 11s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="OutputStreamWriterTest_testOutputStreamWriter - 2020.09.15 at 17h 59m 18s.xml">
+      <configuration name="OutputStreamWriterTest.testOutputStreamWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 33m 42s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="OutputStreamWriterTest_testOutputStreamWriter - 2020.09.15 at 18h 11m 09s.xml">
+      <configuration name="OutputStreamWriterTest.testOutputStreamWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 34m 09s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="OutputStreamWriterTest_testOutputStreamWriter - 2020.09.15 at 18h 11m 22s.xml">
+      <configuration name="OutputStreamWriterTest.testOutputStreamWriter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 34m 21s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="TestInputStreamReader_inputSteamReader - 2020.09.15 at 18h 26m 06s.xml">
+      <configuration name="TestInputStreamReader.inputSteamReader" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 34m 38s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="TestInputStreamReader_inputSteamReader - 2020.09.15 at 18h 26m 20s.xml">
+      <configuration name="TestInputStreamReader.inputSteamReader" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 35m 13s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="TestInputStreamReader_inputSteamReader - 2020.09.15 at 18h 35m 38s.xml">
+      <configuration name="TestInputStreamReader.inputSteamReader" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileInputOutputStreamDemo_testFileInputStream - 2020.09.14 at 18h 35m 49s.xml">
-      <configuration name="FileInputOutputStreamDemo.testFileInputStream" configurationId="JUnit" />
+    <history-entry file="TestInputStreamReader_inputSteamReader - 2020.09.15 at 18h 36m 12s.xml">
+      <configuration name="TestInputStreamReader.inputSteamReader" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135065000" />
+    <option name="totallyTimeSpent" value="152650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.1814301" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.18356457" />
       <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.27267876" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -412,8 +452,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5016234" side_tool="true" weight="0.27267876" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7972252" weight="0.32897604" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49893278" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7956243" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893278" weight="0.39978212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -422,7 +462,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49786553" weight="0.32897604" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.20277481" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.20437567" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4994664" weight="0.32897604" />
       <window_info anchor="bottom" id="Inspection Results" order="13" sideWeight="0.4994664" weight="0.32897604" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -441,90 +481,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/string/StringPracticeFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/string/StringPracticeSix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/string/StringPracticeSeven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/array/ArrayDemo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/array/ArrayDemo05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Java Projects/Array/ArrayDemo01.class" />
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/string/StringPracticeOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/array/ArrayDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/array/ArrayDemo04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/array/ArrayDemo07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/array/ArrayDemo08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="116">
-            <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/string/StringPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
@@ -680,17 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/Junit/JunitDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/ArrayList/ArrayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -741,6 +686,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/Java/java jdk 11/lib/src.zip!/java.base/java/lang/SecurityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="230" column="13" selection-start-line="230" selection-start-column="13" selection-end-line="230" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/array/text.txt" />
+    <entry file="jar://E:/Java/java jdk 11/lib/src.zip!/java.base/java/io/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="159" column="70" selection-start-line="159" selection-start-column="70" selection-end-line="159" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/java jdk 11/lib/src.zip!/java.base/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="1053" column="9" lean-forward="true" selection-start-line="1053" selection-start-column="9" selection-end-line="1053" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/java jdk 11/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="354" column="16" selection-start-line="354" selection-start-column="16" selection-end-line="354" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/HashMap/HashMapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -758,34 +732,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/java jdk 11/lib/src.zip!/java.base/java/lang/SecurityManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-500">
-          <caret line="230" column="13" selection-start-line="230" selection-start-column="13" selection-end-line="230" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/array/text.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://E:/Java/java jdk 11/lib/src.zip!/java.base/java/io/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="159" column="70" selection-start-line="159" selection-start-column="70" selection-end-line="159" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Java/java jdk 11/lib/src.zip!/java.base/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="1053" column="9" lean-forward="true" selection-start-line="1053" selection-start-column="9" selection-end-line="1053" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/File/FileDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="145">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#practice03#0;class#FileDemo#0" />
@@ -795,17 +745,15 @@
             <element signature="method#methodPanDuan#0;class#FileDemo#0" />
             <element signature="method#methodCUD#0;class#FileDemo#0" />
             <element signature="method#methodGet#0;class#FileDemo#0" />
-            <element signature="method#methodListFile#0;class#FileDemo#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/java jdk 11/lib/src.zip!/java.base/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="354" column="16" selection-start-line="354" selection-start-column="16" selection-end-line="354" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Test/timg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/copyimage.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/Demo01.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -814,10 +762,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Demo02.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/FileIOPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="24" column="66" lean-forward="true" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/Junit/JunitDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/demo03.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/FileIOPracticeTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="81" column="36" lean-forward="true" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/FileOutputStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/BuffereOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/FileInputOutputStreamDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        <state relative-caret-position="38">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Demo04.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/OutputStreamWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/TestBufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dongzhongyu/IO/TestInputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
