@@ -32,6 +32,7 @@ public class OutputStreamWriterTest {
                 e.printStackTrace();
             }
         }
-
+        //字符输出流：OutputStreamWriter->FileWriter
+        //字符输入流：InputStreamWriter->FileReader
     }
 }
